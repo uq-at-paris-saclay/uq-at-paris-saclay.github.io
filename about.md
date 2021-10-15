@@ -15,7 +15,7 @@ incertitudes pour les simulations numériques.
 
 En plus des Graduate Schools de l'Université, le GIS est soutenu à ce jour par CentraleSupélec, l'ENS Paris-Saclay, 
 l'institut DataIA et les laboratoires suivants : BioMaps, CMLA, GeePs, IBISC, L2S, LI-PaRAD, LISN, LMO, LMT, 
-LSCE, MaIAGE, MIA, MICS, MSSMAT, SATIE.
+LSCE, LVM, MaIAGE, MIA, MICS, MSSMAT, SATIE.
 
 Cette liste reste ouverte et le GIS encourage tous les laboratoires
 intéressés à rejoindre le projet.
