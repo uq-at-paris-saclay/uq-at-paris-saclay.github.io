@@ -31,13 +31,13 @@ l'[Institut de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.f
 >                                                                                  
 >  * 9h40-11h25 - Objectifs pour les industriels et EPICs : enjeux et problèmes scientifiques
 >                                                                                  
->    * 9h40h-10h00 : EDF / Framatome / CEA (Nicolas Bousquet / Bertrand Iooss) : traitement d'incertitudes de modèles numériques +complexes e>t méta-modèles pour la sûreté nucléaire
+>    * 9h40h-10h00 : EDF / Framatome / CEA (Nicolas Bousquet / Bertrand Iooss) : traitement d'incertitudes de modèles numériques complexes et méta-modèles pour la sûreté nucléaire
 >                                                                                  
 >    * 10h05-10h25 : SAFRAN (Brian Staber) : approches bayésiennes en très grande dimension pour l'usage des réseaux de neurones
 >                                                                                  
 >    * 10h30-10h45 : pause                                                         
 >                                                                                  
->    * 10h45-10h55 :ONERA (Loïc Brevault et Mathieu Balesdent) : optimisation et l’analyse multidisciplinaire / multiphysique
+>    * 10h45-10h55 : ONERA (Loïc Brevault et Mathieu Balesdent) : optimisation et l’analyse multidisciplinaire / multiphysique
 >                                                                                  
 >    * 11h00-11h20 : IFPEN (Miguel Munos-Zuniga) Méta-modèles en très grande dimension
 >                                                                                  
