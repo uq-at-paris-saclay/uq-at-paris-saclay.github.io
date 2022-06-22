@@ -6,8 +6,7 @@ excerpt_separator: <!--more-->
 
 Le processus de contractualisation du GIS entre l’Université
 Paris-Saclay et les entreprises partenaires est en cours. Son
-existence juridique sera établie vraisemblablement durant le premier
-semestre 2022.
+existence juridique sera établie vraisemblablement avant l'automne 2022.
 
 <!--more-->
 
