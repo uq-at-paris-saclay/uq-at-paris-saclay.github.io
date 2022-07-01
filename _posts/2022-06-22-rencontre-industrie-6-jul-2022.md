@@ -9,7 +9,7 @@ Les entreprises partenaires du GIS proposent une rencontre afin d'initier des su
 Cette rencontre aura lieu le **mercredi 6 juillet 2022, de 9h à 12h**, à
 l'[Institut de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/contacts/), Amphithéâtre Yoccoz.
 
-**Important** : pour organiser la pause café, nous vous prions de **vous inscrire [ici](https://uq-at-paris-saclay.limesurvey.net/692858)**.
+**Important** : pour organiser la pause café, nous vous prions de **vous inscrire [ici](https://forms.gle/pYEqVzBWG2ez8QcH9)**.
 
 **Programme de la rencontre**
 <!--more-->
@@ -39,7 +39,7 @@ l'[Institut de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.f
 >                                                                                  
 >    * 10h45-10h55 : ONERA (Loïc Brevault et Mathieu Balesdent) : optimisation et l’analyse multidisciplinaire / multiphysique
 >                                                                                  
->    * 11h00-11h20 : IFPEN (Miguel Munos-Zuniga) Méta-modèles en très grande dimension
+>    * 11h00-11h20 : IFPEN (Miguel Munos-Zuniga) : panorama des besoins en analyse d’incertitudes et optimisation dans les applications IFPEN, focus sur l’éolien
 >                                                                                  
 >  * 11h25-12h00 - Actions envisagées à court terme                                
 >                                                                                  
