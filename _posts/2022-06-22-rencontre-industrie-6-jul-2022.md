@@ -39,7 +39,7 @@ l'[Institut de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.f
 >                                                                                  
 >    * 10h45-10h55 : ONERA (Loïc Brevault et Mathieu Balesdent) : optimisation et l’analyse multidisciplinaire / multiphysique
 >                                                                                  
->    * 11h00-11h20 : IFPEN (Miguel Munos-Zuniga) : panorama des besoins en analyse d’incertitudes et optimisation dans les applications IFPEN, focus sur l’éolien
+>    * 11h00-11h20 : IFPEN (Miguel Munos Zuniga) : panorama des besoins en analyse d’incertitudes et optimisation dans les applications IFPEN, focus sur l’éolien
 >                                                                                  
 >  * 11h25-12h00 - Actions envisagées à court terme                                
 >                                                                                  
