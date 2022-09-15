@@ -18,14 +18,14 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 0.7em 0 15px;
+  margin: 0.5em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -157,7 +157,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {
@@ -187,10 +187,12 @@ img {
 }
 
 .logo-upsay {
-  width: 310px;
-  height: 140px;
-  margin-right: 15px;
-  display: inline-block;
+  width: 200px;
+  // height: 140px;
+  padding: 10px, 5px;
+  margin: 0 0 0 auto;
+  // margin-right: 15px;
+  // display: inline-block;
 
   @include mobile {
     float: none;
@@ -297,12 +299,97 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $upsay-secondary;
 }
 
 footer {
-  padding: 20px 0;
-  text-align: left;
+  background-color: $upsay-secondary;
+  // background-color: #121315;
+  color: #fff;
+  font-size: 11px;
+  min-height: 80px;
+  width: 100%;
+}
+
+footer * {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+.row {
+  padding: 2em 0em;
+}
+.row.primary {
+  display: grid;
+  grid-template-columns: 380px auto;
+  align-items: stretch;
+  padding: 10px 10% 10px 10%;
+}
+.column {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 3px;
+  min-height: 8em;
+  justify-content: flex-start;
+}
+.about p {
+  text-align: justify;
+  line-height: 2;
+  margin: 0;
+}
+
+//.footer {
+//  padding: 20px 0;
+//  text-align: left;
+//  color: #fff;
+//}
+
+.footer-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.footer-instituts {
+  border-left: 1px solid;
+  margin-left: 0;
+  margin-top: 10px;
+  line-height: 1.4;
+  padding: 0 0 0 5px;
+}
+strong.footer {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.copyright {
+  padding: 5px 10% 1px 10%;
+  background-color: #25262e;
+}
+.footer-menu{
+  float: left;
+    margin-top: 10px;
+}
+
+.footer-menu a{
+  color: #cfd2d6;
+  padding: 6px;
+
+  text-decoration: none;
+}
+.footer-menu a:hover{
+  color: #27bcda;
+}
+.copyright p {
+  font-size: 0.9em;
+  text-align: right;
+}
+
+@media screen and (max-width: 850px) {
+  .row.primary {
+    grid-template-columns: 1fr;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -34,6 +34,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">Accueil</a>
             <a href="{{ site.baseurl }}/posts">Actualités</a>
+            <a href="{{ site.baseurl }}/workgroups">Groupes</a>
             <a href="{{ site.baseurl }}/about">A propos</a>
           </nav>
         </header>
@@ -44,16 +45,7 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          <a href="https://www.universite-paris-saclay.fr/"
-            class="logo-upsay">
-            <img src="{{ site.baseurl }}/images/Logo_Univ_Paris-Saclay.png" /></a>
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+    {% include footer.html %}
 
     {% include analytics.html %}
   </body>
