@@ -23,11 +23,22 @@ body {
   color: $darkGray;
 }
 
-.container {
+.container-wide {
   margin: 0 auto;
   max-width: 800px;
   padding: 0 10px;
   width: 100%;
+}
+
+.container {
+  margin: 0;
+  max-width: 1024px;
+  padding: 0 10% 0 10%;
+  width: 100%;
+
+  @include mobile {
+    padding: 0 10px 0 10px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -295,6 +306,13 @@ nav {
   }
 }
 
+.top-header {
+  background-color: $upsay-secondary;
+  width: 100%;
+  min-height: 30px;
+  color: #fff;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
@@ -335,7 +353,7 @@ footer * {
   justify-content: flex-start;
 }
 .about p {
-  text-align: justify;
+  text-align: left;
   line-height: 2;
   margin: 0;
 }
@@ -364,33 +382,54 @@ strong.footer {
 }
 
 .copyright {
-  padding: 5px 10% 1px 10%;
-  background-color: #25262e;
+  background-color: #25262e; 
+  //display: grid;
+  //grid-template-columns: 380px auto;
+  display: flex;
+  flex-direction: row;
+  // align-items: stretch;
+  padding: 5px 10% 10px 10%; 
 }
 .footer-menu{
-  float: left;
-    margin-top: 10px;
 }
-
 .footer-menu a{
   color: #cfd2d6;
   padding: 6px;
-
   text-decoration: none;
 }
 .footer-menu a:hover{
   color: #27bcda;
 }
-.copyright p {
-  font-size: 0.9em;
-  text-align: right;
+.copyrightnotice {
+  margin-left: auto;
+  padding: 6px;
 }
-
 @media screen and (max-width: 850px) {
+  .container {
+    padding: 0 10px;
+  }
   .row.primary {
     grid-template-columns: 1fr;
   }
 }
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(4, 16vh);
+    grid-gap: 5px;
+    padding-top:10px;
+    border-top: 1px solid #eee;
+}
+
+.gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+	display: block;
+}
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
