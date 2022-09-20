@@ -1,0 +1,58 @@
+    <div class="wrapper-footer">
+      <!--div class="container"-->
+ 
+        <footer class="footer">
+          <div class="row primary">
+
+            <div class="column about">
+                <p><strong class=footer> Groupement d'Intérêt
+                    Scientifique <br>               
+                    UQ@Paris-Saclay</strong></p>
+              <div class="footer-instituts">
+                <ul class="footer-list">
+                  <li> Université Paris-Saclay </li>
+                  <li> AgroParisTech,
+                    CentraleSupélec,
+                    ENS Paris-Saclay,
+                    Faculté des Sciences,
+                    IHES, Institut d'Optique, OSUPS
+                  <li> Univ. Evry, UVSQ, INP Clermont, Sigma
+                    Clermont </li>
+                  <li> CNRS, INRAE, INRIA  </li>
+                  <li> CEA, CERFACS, IFPEN, LNE, ONERA </li> 
+                  <li> AIRBUS, EDF, FRAMATOME, PHIMECA, SAFRAN</li>
+                </ul>
+              </div>
+            </div>
+         
+            <!-- div class="column contact">
+               <ul class="footer-list">
+                 <li> Contact us </li>
+               </ul>
+          </div> -->
+ 
+            <div class="column logo">
+              <a href="https://www.universite-paris-saclay.fr"
+                 class="logo-upsay">
+                 <img src="{{ site.baseurl }}/images/Logo_Univ_Paris-Saclay-white.svg"
+                      alt="Université Paris-Saclay (logo)"/></a>
+            </div>
+
+          </div>
+
+          <div class="row copyright">
+            <div class="footer-menu">
+             <a href="mailto:comite-organisation.uq@paris-saclay.fr">Contact us</a>
+             <a href="https://listes.universite-paris-saclay.fr/ups/subscribe/news.gis-uq" target="_blank">Subscribe</a>
+             {% if site.footer-links.rss %}
+                <a href="{{ site.baseurl }}/feed.xml"><i class="svg-icon rss20"></i></a>
+              {% endif %}
+            </div>
+            <div class="copyrightnotice">
+            Copyright &copy; 2022 Université Paris-Saclay</div>
+          </div>
+
+        </footer>
+    
+      <!--/div-->
+    </div>
