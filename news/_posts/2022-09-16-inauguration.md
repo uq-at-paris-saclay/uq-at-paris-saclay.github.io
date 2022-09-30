@@ -29,15 +29,15 @@ place de parking, nous vous prions de **vous inscrire [ici](https://forms.gle/dA
 >  * 9h40 - 10h40 --- Exposés scientifiques
 >                                                                                  
 >    * David Ginsbourger, Université de Berne : Processus gaussiens pour l'exploration d'espaces de paramètres. De l'optimisation à l'estimation conservative d'ensembles d'excursion.
->    * Mathieu Vrac, LCSE Paris-Saclay : Incertitudes en modélisation climatique
+>    * Mathieu Vrac, LSCE Paris-Saclay : Incertitudes en modélisation climatique
 >                                           
 >  * 10h40 - 11h00 --- Pause
 >  
 >  * 11h - 11h15 --- Fonctionnement du GIS (Emmanuel Vazquez)
 >
 >  * 11h15 - 12h00 --- Besoins industriels
->    * Contributeurs EDF /Safran / CEA /Framatome : Regards croisés et
->       besoins mutuels en quantification des incertitudes pour
+>    * Contributeurs EDF / Safran / CEA / Framatome : Regards croisés et
+>       besoins mutuels des industriels en quantification des incertitudes pour
 >       les réseaux de neurones
 >    * Nicolas Bousquet (EDF) : Groupe de travail "Garanties sur l'usage des
 >       méta-modèles"
@@ -46,23 +46,3 @@ place de parking, nous vous prions de **vous inscrire [ici](https://forms.gle/dA
 >  
 >  * 12h00 - 12h15 --- Conclusions et actions à venir (E. Vazquez, M. Mougeot, N. Bousquet)
 
-
-
-<!--
-> 9h40-11h25 - Objectifs pour les industriels et EPICs : enjeux et problèmes scientifiques
->                                                                                  
->    * 9h40h-10h00 : EDF / Framatome / CEA (Nicolas Bousquet / Bertrand Iooss) : traitement d'incertitudes de modèles numériques complexes et méta-modèles pour la sûreté nucléaire
->                                                                                  
->    * 10h05-10h25 : SAFRAN (Brian Staber) : approches bayésiennes en très grande dimension pour l'usage des réseaux de neurones
->                                                                                  
->    * 10h30-10h45 : pause                                                         
->                                                                                  
->    * 10h45-10h55 : ONERA (Loïc Brevault et Mathieu Balesdent) : optimisation et l’analyse multidisciplinaire / multiphysique
->                                                                                  
->    * 11h00-11h20 : IFPEN (Miguel Munos Zuniga) : panorama des besoins en analyse d’incertitudes et optimisation dans les applications IFPEN, focus sur l’éolien
->                                                                                  
->  * 11h25-12h00 - Actions envisagées à court terme                                
->                                                                                  
->    * 11h25-11h35 : Exemple de collaboration (Didier Lucor, DR CNRS)              
->    * 11h35-11h45 : Présentation de groupes de travail                            
->    * 11h45-12h00 : Discussions et conclusions -->

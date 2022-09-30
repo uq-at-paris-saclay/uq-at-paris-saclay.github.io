@@ -9,6 +9,6 @@ données.
 
 <!--more-->
 
-Les thèmes abordés dans ce groupes portent par exemple sur :
+(En construction)
 
-Correspondante : Sophie Ricci
+_Correspondante : Sophie Ricci_

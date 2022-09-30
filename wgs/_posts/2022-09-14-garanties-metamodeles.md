@@ -8,6 +8,6 @@ Ce groupe de travail s'attache à la question des "garanties" liées à l'utilis
 
 <!--more-->
 
-Les thèmes abordés dans ce groupes portent par exemple sur :
+(En construction)
 
-Correspondant : Nicolas Bousquet
+_Correspondant : Nicolas Bousquet_
