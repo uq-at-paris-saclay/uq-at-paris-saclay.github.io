@@ -28,9 +28,11 @@ intéressés à rejoindre le projet.
  * FRAMATOME
  * EDF R&D
  * IFPEN
+ * LNE
  * ONERA
  * Phiméca
  * SAFRAN
+ * SystemX
 
 ### Comité de préfiguration du GIS
 

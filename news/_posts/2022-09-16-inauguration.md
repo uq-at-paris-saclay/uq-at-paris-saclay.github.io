@@ -18,7 +18,7 @@ place de parking, nous vous prions de **vous inscrire [ici](https://forms.gle/dA
 **Programme prévisionnel de l'inauguration**
 <!--more-->
 >
->  * 9h00 --- Accueil (Théâtre, CentraleSupélec)                                      
+>  * 8h50 --- Accueil (Théâtre, CentraleSupélec)                                      
 >                                                                                  
 >  * 9h10 - 9h40 --- Introduction institutionnelle                                                      
 >                                                                                  
