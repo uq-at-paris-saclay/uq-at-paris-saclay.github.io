@@ -20,11 +20,12 @@ place de parking, nous vous prions de **vous inscrire [ici](https://forms.gle/dA
 **Programme prévisionnel de l'inauguration**
 <!--more-->
 >
->  * 8h50 --- Accueil (Théâtre, CentraleSupélec)                                      
+>  * 8h50 --- Café d'accueil (Théâtre, CentraleSupélec)                                      
 >                                                                                  
->  * 9h10 - 9h40 --- Introduction institutionnelle                                                      
->                                                                                  
->    * Estelle Iacona, Présidente de l'Univ. Paris-Saclay
+>  * 9h10 - 9h40 --- Introduction institutionnelle
+>
+>    * Paul-Henry Cournède, Directeur de la Recherche de CentraleSupélec : mot de bienvenue
+>    * Estelle Iacona, Présidente de l'Université Paris-Saclay
 >    * Etienne Brière, Directeur Scientifique d'EDF
 >    * Riad Haidar, Directeur Scientifique de l'ONERA
 >                                                                               
