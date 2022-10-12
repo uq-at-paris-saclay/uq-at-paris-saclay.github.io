@@ -10,7 +10,9 @@ Le GIS vous convie à son inauguration !
 
 Cet évènement aura lieu le **mardi 18 octobre 2022, de 9h à 12h30**,
 à [CentraleSupélec](https://www.centralesupelec.fr/){:target="_blank"}{:rel="noopener noreferrer"}, Théâtre Rousseau
-([Accès au Bât. Bouygues](https://goo.gl/maps/TAk99FoiYBK1rQ5n6){:target="_blank"}{:rel="noopener noreferrer"}).
+([Bât. Bouygues](https://goo.gl/maps/TAk99FoiYBK1rQ5n6){:target="_blank"}{:rel="noopener noreferrer"}).
+
+[Informations Pratiques / Comment venir ?](/files/Acces_CentraleSupelec.pdf)
 
 **Important** : pour organiser la pause café, et si vous souhaitez réserver une
 place de parking, nous vous prions de **vous inscrire [ici](https://forms.gle/dACPmVUMksbsGaFGA){:target="_blank"}{:rel="noopener noreferrer"}**.
