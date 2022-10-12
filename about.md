@@ -4,12 +4,10 @@ title: A propos
 permalink: /about/
 ---
 
-Le projet de GIS LARTISSTE (LAboratoire de Recherche en Traitement
-d’Incertitude et en apprentissage Statistique pour les Simulations
-numériques, la conception, la sûreté, et la Transition Energétique)
-est porté par l'Université Paris-Saclay, via ses Graduate Schools,
-et des entreprises majeures dans le domaine de la quantification des
-incertitudes pour les simulations numériques.
+Le projet de GIS UQ@Paris-Saclay est porté par l'Université
+Paris-Saclay, via ses Graduate Schools, et des entreprises majeures
+dans le domaine de la quantification des incertitudes pour les
+simulations numériques.
 
 ### Organismes et laboratoires soutenant le projet
 
@@ -28,11 +26,11 @@ intéressés à rejoindre le projet.
  * FRAMATOME
  * EDF R&D
  * IFPEN
+ * IRT SystemX
  * LNE
  * ONERA
  * Phiméca
  * SAFRAN
- * SystemX
 
 ### Comité de préfiguration du GIS
 
