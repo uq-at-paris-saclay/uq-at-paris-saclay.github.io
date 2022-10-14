@@ -110,6 +110,11 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+ul li ul li {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
 em, i {
   font-style: italic;
 }
