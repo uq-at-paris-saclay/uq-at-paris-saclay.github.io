@@ -40,6 +40,8 @@ intéressés à rejoindre le projet.
  * Didier Lucor (LISN)
  * Emmanuel Vazquez (L2S)
 
-### Contact
+### Contacts
 
 [comite-scientifique.uq@paris-saclay.fr](mailto:comite-scientifique.uq@paris-saclay.fr)
+[comite-organisation.uq@paris-saclay.fr](mailto:comite-organisation.uq@paris-saclay.fr)
+

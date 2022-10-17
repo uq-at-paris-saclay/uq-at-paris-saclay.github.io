@@ -17,7 +17,9 @@ Cet évènement aura lieu le **mardi 18 octobre 2022, de 9h à 12h30**,
 **Important** : pour organiser la pause café, et si vous souhaitez réserver une
 place de parking, nous vous prions de **vous inscrire [ici](https://forms.gle/dACPmVUMksbsGaFGA){:target="_blank"}{:rel="noopener noreferrer"}**.
 
-**Programme prévisionnel de l'inauguration**
+Pour accéder à la visioconférence, si vous ne pouvez pas venir : suivre ce [lien](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_MjdjZWFiNjktMjAzMy00NGQ4LTg3YzEtNTcwZjJjNDhiYmE0%40thread.v2/0?context={"Tid"%3A"61f3e3b8-9b52-433a-a4eb-c67334ce54d5"%2C"Oid"%3A"a62a2863-98ca-47cb-a0be-ba522ccf7367"}).
+
+**Programme de l'inauguration**
 <!--more-->
 >
 >  * 8h50 --- Café d'accueil (Théâtre, CentraleSupélec)                                      

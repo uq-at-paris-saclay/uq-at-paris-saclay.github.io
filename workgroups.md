@@ -3,6 +3,9 @@ layout: default
 permalink: /workgroups/
 ---
 
+_Pour proposer un groupe de travail : envoyer un email décrivant
+votre projet à [comite-scientifique.uq@paris-saclay.fr](mailto:comite-scientifique.uq@paris-saclay.fr)_
+
 <div class="posts">
 
   {% for category in site.categories %}
