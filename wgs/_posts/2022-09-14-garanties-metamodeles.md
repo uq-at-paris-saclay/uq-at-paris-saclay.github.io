@@ -8,6 +8,7 @@ Ce groupe de travail s'attache à la question des "garanties" liées à l'utilis
 
 <!--more-->
 
-(En construction)
+Les enjeux de ce GT ont été présentés lors de la journée
+d'inauguration [[slides]](/files/2022/inauguration/22-GT-garanties-meta-modeles.pdf).
 
-_Correspondant : Nicolas Bousquet_
+_Correspondant : Nicolas Bousquet (EDF)_

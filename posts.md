@@ -4,16 +4,27 @@ permalink: /posts/
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  {% for category in site.categories %}
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    {% if category[0] == "news" %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+      {% for post in category[1] %}
+        <article class="post">
+
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+          <div class="entry">
+            {{ post.excerpt }}
+          </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </article>
+
+      {% endfor %}
+
+    {% endif %}
+
   {% endfor %}
+
 </div>

@@ -9,6 +9,7 @@ données.
 
 <!--more-->
 
-(En construction)
+Les enjeux de ce GT ont été présentés lors de la journée
+d'inauguration [[slides]](/files/2022/inauguration/24-GT-assimilation.pdf).
 
-_Correspondante : Sophie Ricci_
+_Correspondante : Sophie Ricci (CERFACS)_
