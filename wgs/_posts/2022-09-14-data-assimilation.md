@@ -13,6 +13,6 @@ Les enjeux de ce GT ont été présentés lors de la journée
 d'inauguration [[slides]](/files/2022/inauguration/24-GT-assimilation.pdf).
 
 Lien vers l'[espace
-collaboratif](https://mypads2.framapad.org/mypads/?/mypads/group/uq-nk5vrb9zw/pad/view/assimilation-de-donnees-2c5wlb96x)
+collaboratif](https://www.uq.universite-paris-saclay.fr/wiki-public/index.php?title=Workgroup:data-assimilation)
 
 _Correspondante : Sophie Ricci (CERFACS)_
