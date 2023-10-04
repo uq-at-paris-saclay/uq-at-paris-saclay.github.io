@@ -5,7 +5,8 @@ excerpt_separator: <!--more-->
 ---
 DATAIA vous annonce le lancement de l'appel à projets Stages Master 2 pour l'année 2024.
 
-![Logo DATAIA](\images\dataia.png "flyer")
+
+<img src="/images/dataia.png" alt="DataIA logo" style="width:300px;"/>
 
 <!--more-->
 Vous trouverez le texte de l'appel [ici](https://www.dataia.eu/sites/default/files/AAP/Appel%20Stages%20de%20Master%202024v180923.pdf). 
