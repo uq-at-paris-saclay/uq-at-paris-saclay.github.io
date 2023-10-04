@@ -31,9 +31,9 @@ Pour répondre à cette possibilité de thèses en cotutelle dans le périmètre
 
 Vous pourrez retrouver ces offres sur le site du GIS, via les liens fournis dans la rubrique dédiée ci-dessous.
 
-L'actualité porte aussi sur les projets[IA-Clusters](https://www.entreprises.gouv.fr/fr/actualites/france-2030/mise-place-du-dispositif-ia-cluster-pour-soutenir-l-intelligence-artificielle) ; les soumissions des dossiers (hors 3IA) seront faites en novembre, pour une réponse qui devrait survenir en fin d'année 2023 ou au tout début de l'année 2024. Là encore, le GIS vise à se positionner comme un acteur-clé.
+L'actualité porte aussi sur les projets [IA-Clusters](https://www.entreprises.gouv.fr/fr/actualites/france-2030/mise-place-du-dispositif-ia-cluster-pour-soutenir-l-intelligence-artificielle) ; les soumissions des dossiers (hors 3IA) seront faites en novembre, pour une réponse qui devrait survenir en fin d'année 2023 ou au tout début de l'année 2024. Là encore, le GIS vise à se positionner comme un acteur-clé.
 
-À toutes fins utiles, rappelons que le site web du GIS est[https://www.uq.universite-paris-saclay.fr/](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.uq.universite-paris-saclay.fr%2F&data=05%7C01%7Cnicolas.bousquet%40edf.fr%7Ca7baf92d14514f2f9fba08dbaef7198a%7Ce242425b70fc44dc9ddfc21e304e6c80%7C1%7C0%7C638296148519226217%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IcsTjsB5vCu4P1qCCM%2FsrZ0NgrXAPGwCpdahP%2BMAiSs%3D&reserved=0)
+À toutes fins utiles, rappelons que le site web du GIS est [https://www.uq.universite-paris-saclay.fr/](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.uq.universite-paris-saclay.fr%2F&data=05%7C01%7Cnicolas.bousquet%40edf.fr%7Ca7baf92d14514f2f9fba08dbaef7198a%7Ce242425b70fc44dc9ddfc21e304e6c80%7C1%7C0%7C638296148519226217%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IcsTjsB5vCu4P1qCCM%2FsrZ0NgrXAPGwCpdahP%2BMAiSs%3D&reserved=0)
 
 ### Événements à venir
 
