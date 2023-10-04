@@ -3,7 +3,7 @@ layout: post
 title: Newsletter octobre 2023
 excerpt_separator: <!--more-->
 ---
-[Lien vers version pdf](/files/newsletters/newsletter_oct-2023.pdf)
+<!---[Lien vers version pdf](/files/newsletters/newsletter_oct-2023.pdf)--->
 
 ### Edito
 
@@ -15,11 +15,11 @@ excerpt_separator: <!--more-->
 > 
 > Les Parties regroupent actuellement les organismes suivants : Etablissements de l'Université Paris Saclay, EDF, CEA, Framatome, Safran, ONERA, IRT System X, Airbus, IFPEN, Phimeca, CERFACS, LNE et Sigma Clermont.
 > 
-> Rappelons que l'objectif de ce regroupement de laboratoires de recherche publics et privés répond à un besoin croissant d'améliorer la **modélisation par simulation numérique**, pour de nombreux types d'applications requérant rapidité de calcul et finesse de représentation des phénomènes **en présence d'incertitudes**.
+> Rappelons que l'objectif de ce regroupement de laboratoires de recherche publics et privés répond à un besoin croissant d'améliorer les usages de la **modélisation par simulation numérique**, pour de nombreux types d'applications requérant rapidité de calcul et finesse de représentation des phénomènes **en présence d'incertitudes**.
 > 
 > Soutenant les applications qui nous motivent, reliées particulièrement à l'usage sobre de l'énergie et plus généralement à la soutenabilité de l'usage de ressources, la recherche de solutions optimales ou robustes est un enjeu prépondérant. Cela implique de pouvoir mieux comprendre les caractéristiques des modèles numériques, souvent issus de plusieurs physiques, d'améliorer les techniques de calibration, d'inversion, d'assimilation de données, d'analyse de sensibilité… De plus, il est essentiel d'améliorer le pouvoir prédictif des modèles, ou des méta-modèles, en utilisant des méthodes d'apprentissage de l'IA moderne, en combinant judicieusement les données de simulation, les observations et les connaissances phénoménologiques.
 > 
-> Notre GIS a donc vocation à être un carrefour d'**échanges scientifiques et techniques**, mais aussi un lieu où l'on monte des **projets de recherche collaboratifs**.
+> Notre GIS a donc vocation à être un carrefour d'**échanges scientifiques et techniques**, mais aussi un lieu où l'on construit des **projets de recherche collaboratifs**.
 > 
 > Bonne lecture !
  
@@ -39,6 +39,11 @@ Vous pourrez retrouver ces offres sur le site du GIS, via les liens fournis dans
 
 L'actualité porte aussi sur les projets [IA-Clusters](https://www.entreprises.gouv.fr/fr/actualites/france-2030/mise-place-du-dispositif-ia-cluster-pour-soutenir-l-intelligence-artificielle) ; les soumissions des dossiers (hors 3IA) seront faites en novembre, pour une réponse qui devrait survenir en fin d'année 2023 ou au tout début de l'année 2024. Là encore, le GIS vise à se positionner comme un acteur-clé.
 
+
+#### 3. AAP stages M2 DataIA
+
+DataIA a publié son [appel à projets stages M2 2024](/news/dataia-appels-projets-m2/). Nous invitons les personnes souhaitant soumettre un projet concernant l'UQ à [nous contacter](mailto:comite-scientifique.uq@paris-saclay.fr) pour obtenir un soutien du GIS.
+
 ### Événements à venir
 
 #### [UQSay](https://www.uqsay.org/seminars/) est de retour pour une nouvelle série de séminaires.
@@ -46,17 +51,17 @@ L'actualité porte aussi sur les projets [IA-Clusters](https://www.entreprises.g
 Voici le programme pour la première période, d'octobre à Noël :
 
 - UQSay #62 — October 5 — _Sibo Cheng_
-- ☞ /Machine learning and data assimilation for high dimensional dynamical systems/
+- ☞ *Machine learning and data assimilation for high dimensional dynamical systems*
 - UQSay #63 — October 19 — _Stefania Fresca_
-- ☞ /Deep learning-based reduced order models for the real-time approximation of parametrized PDEs/
+- ☞ *Deep learning-based reduced order models for the real-time approximation of parametrized PDEs*
 - UQSay #64 — November 2 — _Christoph Molnar & Timo Freiesleben_
-- ☞ /Supervised Machine Learning in Science/
+- ☞ *Supervised Machine Learning in Science*
 - UQSay #65 — November 16 — _Michael Jordan_
-- ☞ /Prediction-Powered Inference/
+- ☞ *Prediction-Powered Inference*
 - UQSay #66 — November 30 — _Elaine Spiller_
-- ☞ /TBA/
+- ☞ *TBA*
 - UQSay #67 — December 14 — _Pierre Humbert & Batiste Le Bars_
-- ☞ /One-Shot Federated Conformal Prediction/
+- ☞ *One-Shot Federated Conformal Prediction*
 
 Voir [ici](https://www.uqsay.org/upcoming) pour plus d'informations !
 
@@ -64,7 +69,7 @@ Voir [ici](https://www.uqsay.org/upcoming) pour plus d'informations !
 
 Les prochaines journées du [réseau MEXICO](https://reseau-mexico.fr/) (Méthodes d'EXploration Informatique de Modèles COmplexes) auront lieu en présentiel les **4 et 5 décembre** prochains sur le **campus AgroParisTech à Palaiseau** (début lundi 4 midi, fin mardi 5 vers 16h).
 
-Vous pouvez vous inscrire sur le [site](https://mexico2023.sciencesconf.org/)avant le 17 novembre et soumettre une proposition de communication avant le 9 novembre. L'inscription est gratuite, mais obligatoire.
+Vous pouvez vous inscrire sur le [site](https://mexico2023.sciencesconf.org/) avant le 17 novembre et soumettre une proposition de communication avant le 9 novembre. L'inscription est gratuite, mais obligatoire.
 
 Le thème des exposés invités sera les analyses de sensibilité pour entrées dépendantes, mais nous accepterons des propositions de communication sur un large thème autour de l'analyse de sensibilité et de la méta-modélisation comme lors des éditions précédentes. Le réseau est intéressé tout autant par des exposés de développements méthodologiques que de mise en œuvre pratique des méthodes sur des applications et il vous est également possible de présenter des travaux en cours afin de partager vos questions de recherche.
 
