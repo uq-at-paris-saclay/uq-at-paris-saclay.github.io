@@ -25,15 +25,19 @@ excerpt_separator: <!--more-->
  
 ### Actualités du GIS
 
-Grâce à l['Institut DataIA](https://dataia.eu/) et à [David Rousseau](https://users.ijclab.in2p3.fr/david-rousseau/fr/la-page-daccueil-de-mon-site/) et [Sylvain Chevallier](https://sylvchev.github.io/), le GIS est d'ores et déjà l'un des membres importants du projet européen COFUND [**DeMythif.ai**](https://dataia.eu/actualites/cofund-demythifai-appel-sujets-de-these) , qui va permettre de cofinancer une trentaine de thèses Marie Curie démarrant entre 2024 et 2025, dont la direction principale est assurée par des professeurs ou directeurs de recherche des Établissements de l'Université Paris Saclay (EUPS). Ces thèses peuvent être complètement académiques ou, donc, co-portées par des industriels, EPICS et autres entités du GIS.
+#### 1. Cofund
 
-Pour répondre à cette possibilité de thèses en cotutelle dans le périmètre du GIS, un atelier a été mené fin août pour formaliser de nombreux sujets. Il est à présent temps de finaliser ces sujets et soumettre sur la [plateforme ADUM](https://adum.fr/index.pl)avant le **25 octobre à minuit**. De nombreuses offres de stages (suivies ou non de thèses) ont également vocation à être diffusées dans les premiers jours d'octobre. Rappelons que si vous souhaitez demander un financement académique pour un stage en co-tutelle dans un laboratoire des EUPS, il est nécessaire de candidater auprès du comité scientifique du GIS en écrivant à l'adresse suivante : [_comite-scientifique.uq@paris-saclay.fr_](mailto:comite-scientifique.uq@paris-saclay.fr)
+Grâce à l['Institut DataIA](https://dataia.eu/) et à [David Rousseau](https://users.ijclab.in2p3.fr/david-rousseau/fr/la-page-daccueil-de-mon-site/) et [Sylvain Chevallier](https://sylvchev.github.io/), le GIS est d'ores et déjà l'un des membres importants du projet européen COFUND [**DeMythif.ai**](https://dataia.eu/actualites/cofund-demythifai-appel-sujets-de-these), qui va permettre de cofinancer une trentaine de thèses Marie Curie démarrant entre 2024 et 2025, dont la direction principale est assurée par des professeurs ou directeurs de recherche des Établissements de l'Université Paris Saclay (EUPS). Ces thèses peuvent être complètement académiques ou, donc, co-portées par des industriels, EPICS et autres entités du GIS.
+
+Pour répondre à cette possibilité de thèses en cotutelle dans le périmètre du GIS, un atelier a été mené fin août par les entreprises partenaires pour formaliser de nombreux sujets.
+
+Il est à présent temps de finaliser ces sujets et soumettre sur la [plateforme ADUM](https://adum.fr/index.pl) avant le **25 octobre à minuit**. De nombreuses offres de stages (suivies ou non de thèses) ont également vocation à être diffusées dans les premiers jours d'octobre. Rappelons que si vous souhaitez demander un financement académique pour un stage en co-tutelle dans un laboratoire des EUPS, il est nécessaire de candidater auprès du comité scientifique du GIS en écrivant à l'adresse suivante : [_comite-scientifique.uq@paris-saclay.fr_](mailto:comite-scientifique.uq@paris-saclay.fr)
 
 Vous pourrez retrouver ces offres sur le site du GIS, via les liens fournis dans la rubrique dédiée ci-dessous.
 
-L'actualité porte aussi sur les projets [IA-Clusters](https://www.entreprises.gouv.fr/fr/actualites/france-2030/mise-place-du-dispositif-ia-cluster-pour-soutenir-l-intelligence-artificielle) ; les soumissions des dossiers (hors 3IA) seront faites en novembre, pour une réponse qui devrait survenir en fin d'année 2023 ou au tout début de l'année 2024. Là encore, le GIS vise à se positionner comme un acteur-clé.
+#### 2. IA-Clusters
 
-À toutes fins utiles, rappelons que le site web du GIS est [https://www.uq.universite-paris-saclay.fr/](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.uq.universite-paris-saclay.fr%2F&data=05%7C01%7Cnicolas.bousquet%40edf.fr%7Ca7baf92d14514f2f9fba08dbaef7198a%7Ce242425b70fc44dc9ddfc21e304e6c80%7C1%7C0%7C638296148519226217%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IcsTjsB5vCu4P1qCCM%2FsrZ0NgrXAPGwCpdahP%2BMAiSs%3D&reserved=0)
+L'actualité porte aussi sur les projets [IA-Clusters](https://www.entreprises.gouv.fr/fr/actualites/france-2030/mise-place-du-dispositif-ia-cluster-pour-soutenir-l-intelligence-artificielle) ; les soumissions des dossiers (hors 3IA) seront faites en novembre, pour une réponse qui devrait survenir en fin d'année 2023 ou au tout début de l'année 2024. Là encore, le GIS vise à se positionner comme un acteur-clé.
 
 ### Événements à venir
 
@@ -72,56 +76,41 @@ Le GIS s'associe par ses thématiques à l' **Ecole chercheurs ETICS** (École T
 
 Les offres de stage et d'emploi (dont thèses, post-docs) peuvent être soumises à la diffusion via l'adresse : _comite-scientifique.uq@paris-saclay.fr_
 
-N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-limite), et réécrivez-vous si vous souhaitez la maintenir visible au-delà ou au contraire l'ôter de la liste de façon anticipée.
+N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-limite), et réécrivez-nous si vous souhaitez la maintenir visible au-delà ou au contraire l'ôter de la liste de façon anticipée.
 
 #### Offres de stage dont le financement est assuré
 
-| **CEA** |
-- [Apprentissage de modèles de substitution robustes par contrôle Bayésien](https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-1.pdf)
+- **CEA** 
+  - [Apprentissage de modèles de substitution robustes par contrôle Bayésien](https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-1.pdf)
 
+  - [Apprentissage par processus gaussien](https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-2.pdf)
 
-- [Apprentissage par processus gaussien](https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-2.pdf)
+  - [Développement de méthodes statistiques pour la validation des outils de simulation de réacteurs nucléaires](https://uq-at-paris-saclay.github.io/files/jobs/Stage_CEA_Cadarache_2024.pdf)
+ 
+- **ONERA**
+  -  [Optimisation sous incertitudes par algorithme évolutionnaire pour des données hyperspectrales](https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024-14_stage-LMA2S_SLefebvre_optim.pdf)
 
+  -  [Machine learning pour la reconstruction 3D de turbulence de vent pour l'avion basse consommation](https://uq-at-paris-saclay.github.io/files/jobs/stage-ONERA-ML-reconstruction3D-turbulences.pdf)
 
-- [Développement de méthodes statistiques pour la validation des outils de simulation de réacteurs nucléaires](https://uq-at-paris-saclay.github.io/files/jobs/Stage_CEA_Cadarache_2024.pdf)
- |
-| --- | --- |
-| **ONERA** |
-- [Optimisation sous incertitudes par algorithme évolutionnaire pour des données hyperspectrales](https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024-14_stage-LMA2S_SLefebvre_optim.pdf)
+- **DMSI**
+    - [Optimisation de l'exploration du paysage des poids dans les réseaux de neurones](https://uq-at-paris-saclay.github.io/files/jobs/DMSI-stage_DEEP.pdf)
 
+    - [Apprentissage d'opérateurs pour la résolution d'EDP : application à la sécurité incendie](https://uq-at-paris-saclay.github.io/files/jobs/DMS-Stage_EDP.pdf)
 
-- [Machine learning pour la reconstruction 3D de turbulence de vent pour l'avion basse consommation](https://uq-at-paris-saclay.github.io/files/jobs/stage-ONERA-ML-reconstruction3D-turbulences.pdf)
- |
-| **DMSI** |
-- [Optimisation de l'exploration du paysage des poids dans les réseaux de neurones](https://uq-at-paris-saclay.github.io/files/jobs/DMSI-stage_DEEP.pdf)
+- **IFPEN**
+    - [Dimensionnement des machines électriques : Stratégies de réduction du temps d'optimisation](https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-ENS-Optim_multiphysique_machines-electriques.pdf)
 
-
-- [Apprentissage d'opérateurs pour la résolution d'EDP : application à la sécurité incendie](https://uq-at-paris-saclay.github.io/files/jobs/DMS-Stage_EDP.pdf)
- |
-| **IFPEN** |
-- [Dimensionnement des machines électriques : Stratégies de réduction du temps d'optimisation](https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-ENS-Optim_multiphysique_machines-electriques.pdf)
-
-
-- [Opérateurs neuronaux pour la méta-modélisation du stockage de CO2 en milieu poreux](https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-operateurs-neuronaux-stockage-CO2.pdf)
- |
-
+    - [Opérateurs neuronaux pour la méta-modélisation du stockage de CO2 en milieu poreux](https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-operateurs-neuronaux-stockage-CO2.pdf)
+ 
 #### Offre de stage en attente de cofinancement
 
-| **CERFACS-ONERA-LISN** |
-- [Algorithmes d'estimation de probabilité de défaillance utilisant des méta-modèles multi-fidelité, dans un contexte d'hydrodynamique fluviale](https://uq-at-paris-saclay.github.io/files/jobs/Stage_CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf)
- |
-| --- | --- |
-
+- **CERFACS-ONERA-LISN** 
+    - [Algorithmes d'estimation de probabilité de défaillance utilisant des méta-modèles multi-fidelité, dans un contexte d'hydrodynamique fluviale](https://uq-at-paris-saclay.github.io/files/jobs/Stage_CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf)
+ 
 #### Sujets de thèse
 
-| **ONERA** |
-- [Self Supervised Learning pour la détection d'objets de petite taille](https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024_th%C3%A8se_SLefebvre2_draft.pdf)
- |
-| --- | --- |
-| **IFPEN** |
-- [Méthodes d'optimisation robuste multi-physique des machines électriques à base de modèles de substitution](https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-ENS-Optim_multiphysique_machines-%C3%A9lectriques.pdf)
-
-
-- [Développement d'une méthode de régression symbolique pour la prédiction du flux de chaleur pariétal dans les simulations 3D du refroidissement liquide à haut nombre de Prandtl](https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-LISN-regression-symbolique.pdf)
-
- |
+- **ONERA** 
+    - [Self Supervised Learning pour la détection d'objets de petite taille](https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024_th%C3%A8se_SLefebvre2_draft.pdf)
+- **IFPEN**
+    - [Méthodes d'optimisation robuste multi-physique des machines électriques à base de modèles de substitution](https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-ENS-Optim_multiphysique_machines-%C3%A9lectriques.pdf)
+    - [Développement d'une méthode de régression symbolique pour la prédiction du flux de chaleur pariétal dans les simulations 3D du refroidissement liquide à haut nombre de Prandtl](https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-LISN-regression-symbolique.pdf)
