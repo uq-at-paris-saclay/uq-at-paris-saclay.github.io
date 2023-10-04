@@ -3,7 +3,10 @@ layout: post
 title: Newsletter octobre 2023
 excerpt_separator: <!--more-->
 ---
+[Lien vers version pdf](/files/newsletters/newsletter_oct-2023.pdf)
+
 ### Edito
+
 > Chères toutes, chers tous,
 > 
 > En ce mois d'octobre 2023, nous sommes heureux de pouvoir démarrer le cycle des newletters du GIS, après une intense activité pour obtenir la **signature de la convention partenariale**.
