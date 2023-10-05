@@ -32,13 +32,33 @@ intéressés à rejoindre le projet.
  * Phiméca
  * SAFRAN
 
-### Comité de préfiguration du GIS
+### Organigramme du GIS
 
- * Nicolas Bousquet (EDF R&D)
- * Amélie Fau (LMT)
- * Bertrand Iooss (EDF R&D)
- * Didier Lucor (LISN)
- * Emmanuel Vazquez (L2S)
+#### Direction
+
+ * Nicolas Bousquet (EDF R&D) : Directeur
+ * Emmanuel Vazquez (L2S) : Directeur Scientifique
+
+#### Comité Stratégique
+ * Établissements de l'Université Paris Saclay : M. Franck RICHECOEUR 
+ * EDF : M. Etienne BRIERE, représenté par M. Ange CARUSO
+ * ONERA : M. Laurent CAMBIER, représenté par Mme Sidonie LEFEBVRE
+ * Phimeca : M. Thierry YALAMAS
+ * IRT SystemX : M. Patrice AKNIN, représenté par M. Mouadh YAGOUBI
+ * FRAMATOME : M. Stéphane BUGAT
+ * IPFEN : Mme Olga VIZIKA-KAVVADIAS représentée par Mme Delphine SINOQUET  
+ * CEA : Mme Catherine SANTUCCI, représentée par M. Erwan ADAM
+ * LNE : Mme Maguelonne CHAMBON
+ * Clermont Auvergne : M. Nicolas GAYTON
+ * AIRBUS : M. Pierre BENJAMIN
+ * SAFRAN : M. Christian REY
+ * CERFACS : Mme Catherine LAMBERT
+
+#### Comité Scientifique
+ * en cours de définition
+
+#### Bureau exécutif
+ * en cours de définition
 
 ### Contacts
 
