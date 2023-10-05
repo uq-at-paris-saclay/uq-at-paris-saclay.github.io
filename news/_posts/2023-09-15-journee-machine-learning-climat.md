@@ -3,8 +3,6 @@ layout: post
 title: Journée Machine Learning et Climat le 19/10/2023
 excerpt_separator: <!--more-->
 ---
-Bonjour à tou.te.s,
-
 frENBIS co-organise avec  EDF R&D une journée Machine learning et Climat le 19 Octobre prochain à EDF Lab Saclay.
 
 <!--more-->
