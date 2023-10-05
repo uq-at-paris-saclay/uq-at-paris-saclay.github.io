@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Appels à sujets de thèse COFUND DeMythif.AI
+permalink: confund2023
 excerpt_separator: <!--more-->
 ---
 La commission européenne a sélectionné le projet COFUND DeMythif.AI porté par
