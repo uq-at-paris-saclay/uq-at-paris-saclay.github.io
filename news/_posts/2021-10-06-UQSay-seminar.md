@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Séminaire UQSay
+permalink: /news/uqsay2021/
 excerpt_separator: <!--more-->
 ---
 
