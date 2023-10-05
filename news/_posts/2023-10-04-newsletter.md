@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
  
 ### Actualités du GIS
 
-#### 1. Cofund
+#### 1. COFUND
 
 Grâce à l['Institut DataIA](https://dataia.eu/) et à [David Rousseau](https://users.ijclab.in2p3.fr/david-rousseau/fr/la-page-daccueil-de-mon-site/) et [Sylvain Chevallier](https://sylvchev.github.io/), le GIS est d'ores et déjà l'un des membres importants du projet européen COFUND [**DeMythif.ai**](https://dataia.eu/actualites/cofund-demythifai-appel-sujets-de-these), qui va permettre de cofinancer une trentaine de thèses Marie Curie démarrant entre 2024 et 2025, dont la direction principale est assurée par des professeurs ou directeurs de recherche des Établissements de l'Université Paris Saclay (EUPS). Ces thèses peuvent être complètement académiques ou, donc, co-portées par des industriels, EPICS et autres entités du GIS.
 
