@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Newsletter octobre 2023
-permalink: /news/newsletteroct2023
+permalink: /news/newsletter-oct2023/
 excerpt_separator: <!--more-->
 ---
 <!---[Lien vers version pdf](/files/newsletters/newsletter_oct-2023.pdf)--->
