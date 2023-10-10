@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 ---
 La journée “Fondements Mathématiques de l’IA”, organisée conjointement par l'[Institut DATAIA](https://dataia.eu/), [SCAI](https://scai.sorbonne-universite.fr/) et le [groupe MALIA de la Société Française de Statistique](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/), vise à proposer un panorama de quelques directions de recherche prometteuses à l’interface entre l’apprentissage statistique et l’IA.
 
-![Journée "Fondements Mathématiques de l'IA", 2 octobre 2023](/images/jourfondementsmaths.png "flyer")
+![Journée "Fondements Mathématiques de l'IA", 2 octobre 2023](/files/2023/jourfondementsmaths.png)
 
 <!--more-->
 
