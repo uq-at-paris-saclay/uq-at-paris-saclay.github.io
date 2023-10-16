@@ -1,28 +1,23 @@
 ---
 layout: post
-title: Soutenance de Paul Monchot, le lundi 16 octobre à 15h
+title: Soutenance de thèse UQ + réseaux de neurones
 excerpt_separator: <!--more-->
 ---
-J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée " Quantification d'incertitudes au sein des réseaux de neurones: Application à la mesure automatisée de la taille de particules de TiO₂” effectuée sous la direction de Erwan Le Pennec (CMAP, Polytechnique), Loïc Coquelin (LNE) et Nicolas Fischer (LNE).
-
-La soutenance aura lieu dans **l'amphithéâtre Becquerel à l'École polytechnique le lundi 16 octobre à 15 h**.
-
+Paul Monchot présentera sa thèse intitulée "Quantification d'incertitudes au sein des réseaux de neurones: Application à la mesure automatisée de la taille de particules de TiO₂".
 <!--more-->
 
-Un pot sera organisé vers 18h.
+La soutenance aura lieu dans **l'amphithéâtre Becquerel à l'École polytechnique le lundi 16 octobre 2023 à 15 h**.
 
 Le jury sera composé de :
 
-* M. Erwan LE PENNEC                    École polytechnique                        Directeur de thèse
-* M. Pierre-Marc JODOIN                  Université de Sherbrooke                Rapporteur
-* M. Sébastien DA VEIGA                 ENSAI                                              Rapporteur
-* Mme Mathilde MOUGEOT              Ensiie                                               Examinatrice
-* Mme Agnès LAGNOUX                  Univ Toulouse Jean Jaurès             Examinatrice
-* M. Karim LOUNICI                          Ecole Polytechnique                        Examinateur
-* M. Loïc COQUELIN                         LNE                                                 Invité
-* M. Nicolas FISCHER                       LNE                                                  Invité
-
-Voici le résumé de ma thèse :
+* M. Erwan LE PENNEC, École polytechnique, Directeur de thèse
+* M. Pierre-Marc JODOIN, Université de Sherbrooke, Rapporteur
+* M. Sébastien DA VEIGA, ENSAI, Rapporteur
+* Mme Mathilde MOUGEOT, Ensiie, Examinatrice
+* Mme Agnès LAGNOUX,  Univ Toulouse Jean Jaurès, Examinatrice
+* M. Karim LOUNICI, Ecole Polytechnique, Examinateur
+* M. Loïc COQUELIN, LNE, Invité
+* M. Nicolas FISCHER, LNE, Invité
 
 **Mots-clés** :   incertitudes, apprentissage profond, réseaux de neurones, segmentation, nanoparticules, mathématiques appliquées
 
