@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Soutenance de thèse UQ + réseaux de neurones
+title: Soutenance de thèse
 excerpt_separator: <!--more-->
 ---
-Paul Monchot présentera sa thèse intitulée "Quantification d'incertitudes au sein des réseaux de neurones: Application à la mesure automatisée de la taille de particules de TiO₂".
+Paul Monchot présentera sa thèse intitulée Quantification d'incertitudes au sein des réseaux de neurones: Application à la mesure automatisée de la taille de particules de TiO₂.
 <!--more-->
 
 La soutenance aura lieu dans **l'amphithéâtre Becquerel à l'École polytechnique le lundi 16 octobre 2023 à 15 h**.
