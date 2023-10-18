@@ -316,6 +316,35 @@ nav {
 }
 
 
+// div.job-list {
+//   list-style-type: none;
+//   padding-left: 0;
+// }
+// 
+// div.job-item {
+//   position: relative;
+//   padding-left: 15px;   /* Decreased from 20px */
+//   margin-bottom: 10px;
+// }
+// 
+// div.job-item a {
+//   display: block; 
+//   margin: 0 0 0 -5px;
+//   background-color: #f5f5f5;
+//   padding: 10px 10px;
+//   text-decoration: none;
+// }
+// 
+// div.job-item::before {
+//   content: '';
+//   position: absolute;
+//   top: 0px;  
+//   bottom: 0px; 
+//   left: 8px;  /* Adjusted this closer to the text */
+//   width: 4px;
+//   background-color: #cfd2d6;
+// }
+
 div.job-list {
   list-style-type: none;
   padding-left: 0;
@@ -323,26 +352,41 @@ div.job-list {
 
 div.job-item {
   position: relative;
-  padding-left: 15px;   /* Decreased from 20px */
+  padding-left: 15px;  /* Padding to ensure content doesn't overlap with the vertical line */
   margin-bottom: 10px;
 }
 
 div.job-item a {
-  display: block; 
-  margin: 0 0 0 -5px;
+  display: block;
+  margin: 0 0 0 -3px;
   background-color: #f5f5f5;
-  padding: 10px 10px;
+  padding: 10px;
   text-decoration: none;
+  position: relative;
+  overflow: hidden;  /* Ensures the text wraps around the square */
 }
 
 div.job-item::before {
   content: '';
   position: absolute;
-  top: 0px;  
-  bottom: 0px; 
-  left: 8px;  /* Adjusted this closer to the text */
+  top: 0px;
+  bottom: 0px;
+  left: 8px;
   width: 4px;
   background-color: #cfd2d6;
+}
+
+div.job-item a::before {
+  content: '';
+  float: left;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+  margin-top: 9px;
+  margin-left: 0px;
+  margin-right: 6px;
+  left: 0;
+  background-color: #862d86;
 }
 
 
