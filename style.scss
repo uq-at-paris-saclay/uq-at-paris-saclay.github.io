@@ -315,6 +315,37 @@ nav {
   }
 }
 
+
+div.job-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+div.job-item {
+  position: relative;
+  padding-left: 15px;   /* Decreased from 20px */
+  margin-bottom: 10px;
+}
+
+div.job-item a {
+  display: block; 
+  margin: 0 0 0 -5px;
+  background-color: #f5f5f5;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+div.job-item::before {
+  content: '';
+  position: absolute;
+  top: 0px;  
+  bottom: 0px; 
+  left: 8px;  /* Adjusted this closer to the text */
+  width: 4px;
+  background-color: #cfd2d6;
+}
+
+
 .top-header {
   background-color: $upsay-secondary;
   width: 100%;

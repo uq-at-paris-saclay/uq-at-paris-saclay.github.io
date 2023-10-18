@@ -86,37 +86,80 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
 
 #### Offres de stage dont le financement est assuré
 
-- **CEA** 
-  - [Apprentissage de modèles de substitution robustes par contrôle Bayésien](https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-1.pdf)
+<ul>
+  <li><strong>CEA</strong>
+    <div class="job-list">
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-1.pdf">Apprentissage de modèles de substitution robustes par contrôle Bayésien</a>
+      </div>
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-2.pdf">Apprentissage par processus gaussien</a>
+      </div>
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/Stage_CEA_Cadarache_2024.pdf">Développement de méthodes statistiques pour la validation des outils de simulation de réacteurs nucléaires</a>
+      </div>
+    </div>
+  </li>
+  
+  <li><strong>ONERA</strong>
+    <div class="job-list">
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024-14_stage-LMA2S_SLefebvre_optim.pdf">Optimisation sous incertitudes par algorithme évolutionnaire pour des données hyperspectrales</a>
+      </div>
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/stage-ONERA-ML-reconstruction3D-turbulences.pdf">Machine learning pour la reconstruction 3D de turbulence de vent pour l'avion basse consommation</a>
+      </div>
+    </div>
+  </li>
+  
+  <li><strong>DMSI</strong>
+    <div class="job-list">
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/DMSI-stage_DEEP.pdf">Optimisation de l'exploration du paysage des poids dans les réseaux de neurones</a>
+      </div>
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/DMS-Stage_EDP.pdf">Apprentissage d'opérateurs pour la résolution d'EDP : application à la sécurité incendie</a>
+      </div>
+    </div>
+  </li>
+  
+  <li><strong>IFPEN</strong>
+    <div class="job-list">
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-ENS-Optim_multiphysique_machines-electriques.pdf">Dimensionnement des machines électriques : Stratégies de réduction du temps d'optimisation</a>
+      </div>
+      <div class="job-item">
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-operateurs-neuronaux-stockage-CO2.pdf">Opérateurs neuronaux pour la méta-modélisation du stockage de CO2 en milieu poreux</a>
+      </div>
+    </div>
+  </li>
+</ul>
 
-  - [Apprentissage par processus gaussien](https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-2.pdf)
 
-  - [Développement de méthodes statistiques pour la validation des outils de simulation de réacteurs nucléaires](https://uq-at-paris-saclay.github.io/files/jobs/Stage_CEA_Cadarache_2024.pdf)
- 
-- **ONERA**
-  -  [Optimisation sous incertitudes par algorithme évolutionnaire pour des données hyperspectrales](https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024-14_stage-LMA2S_SLefebvre_optim.pdf)
-
-  -  [Machine learning pour la reconstruction 3D de turbulence de vent pour l'avion basse consommation](https://uq-at-paris-saclay.github.io/files/jobs/stage-ONERA-ML-reconstruction3D-turbulences.pdf)
-
-- **DMSI**
-    - [Optimisation de l'exploration du paysage des poids dans les réseaux de neurones](https://uq-at-paris-saclay.github.io/files/jobs/DMSI-stage_DEEP.pdf)
-
-    - [Apprentissage d'opérateurs pour la résolution d'EDP : application à la sécurité incendie](https://uq-at-paris-saclay.github.io/files/jobs/DMS-Stage_EDP.pdf)
-
-- **IFPEN**
-    - [Dimensionnement des machines électriques : Stratégies de réduction du temps d'optimisation](https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-ENS-Optim_multiphysique_machines-electriques.pdf)
-
-    - [Opérateurs neuronaux pour la méta-modélisation du stockage de CO2 en milieu poreux](https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-operateurs-neuronaux-stockage-CO2.pdf)
- 
 #### Offre de stage en attente de cofinancement
 
-- **CERFACS-ONERA-LISN** 
-    - [Algorithmes d'estimation de probabilité de défaillance utilisant des méta-modèles multi-fidelité, dans un contexte d'hydrodynamique fluviale](https://uq-at-paris-saclay.github.io/files/jobs/Stage_CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf)
- 
+- **CERFACS-ONERA-LISN**
+  <div class="job-list">
+    <div class="job-item">
+      <a href="https://uq-at-paris-saclay.github.io/files/jobs/Stage_CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf">Algorithmes d'estimation de probabilité de défaillance utilisant des méta-modèles multi-fidelité, dans un contexte d'hydrodynamique fluviale</a>
+    </div>
+  </div>
+
 #### Sujets de thèse
 
-- **ONERA** 
-    - [Self Supervised Learning pour la détection d'objets de petite taille](https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024_th%C3%A8se_SLefebvre2_draft.pdf)
+- **ONERA**
+  <div class="job-list">
+    <div class="job-item">
+      <a href="https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024_th%C3%A8se_SLefebvre2_draft.pdf">Self Supervised Learning pour la détection d'objets de petite taille</a>
+    </div>
+  </div>
+
 - **IFPEN**
-    - [Méthodes d'optimisation robuste multi-physique des machines électriques à base de modèles de substitution](https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-ENS-Optim_multiphysique_machines-%C3%A9lectriques.pdf)
-    - [Développement d'une méthode de régression symbolique pour la prédiction du flux de chaleur pariétal dans les simulations 3D du refroidissement liquide à haut nombre de Prandtl](https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-LISN-regression-symbolique.pdf)
+  <div class="job-list">
+    <div class="job-item">
+      <a href="https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-ENS-Optim_multiphysique_machines-%C3%A9lectriques.pdf">Méthodes d'optimisation robuste multi-physique des machines électriques à base de modèles de substitution</a>
+    </div>
+    <div class="job-item">
+      <a href="https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-LISN-regression-symbolique.pdf">Développement d'une méthode de régression symbolique pour la prédiction du flux de chaleur pariétal dans les simulations 3D du refroidissement liquide à haut nombre de Prandtl</a>
+    </div>
+  </div>
