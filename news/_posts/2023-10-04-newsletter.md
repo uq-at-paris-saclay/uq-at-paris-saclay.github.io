@@ -90,13 +90,13 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
   <li><strong>CEA</strong>
     <div class="job-list">
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-1.pdf">Apprentissage de modèles de substitution robustes par contrôle Bayésien</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-offre-CEA-DAM-1.pdf">Apprentissage de modèles de substitution robustes par contrôle Bayésien</a>
       </div>
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/offre-CEA-DAM-2.pdf">Apprentissage par processus gaussien</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-offre-CEA-DAM-2.pdf">Apprentissage par processus gaussien</a>
       </div>
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/Stage_CEA_Cadarache_2024.pdf">Développement de méthodes statistiques pour la validation des outils de simulation de réacteurs nucléaires</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-Stage_CEA_Cadarache.pdf">Développement de méthodes statistiques pour la validation des outils de simulation de réacteurs nucléaires</a>
       </div>
     </div>
   </li>
@@ -104,10 +104,10 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
   <li><strong>ONERA</strong>
     <div class="job-list">
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/DOTA-2024-14_stage-LMA2S_SLefebvre_optim.pdf">Optimisation sous incertitudes par algorithme évolutionnaire pour des données hyperspectrales</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-DOTA-14_stage-LMA2S_SLefebvre_optim.pdf">Optimisation sous incertitudes par algorithme évolutionnaire pour des données hyperspectrales</a>
       </div>
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/stage-ONERA-ML-reconstruction3D-turbulences.pdf">Machine learning pour la reconstruction 3D de turbulence de vent pour l'avion basse consommation</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-stage-ONERA-ML-reconstruction3D-turbulences.pdf">Machine learning pour la reconstruction 3D de turbulence de vent pour l'avion basse consommation</a>
       </div>
     </div>
   </li>
@@ -115,10 +115,10 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
   <li><strong>DMSI</strong>
     <div class="job-list">
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/DMSI-stage_DEEP.pdf">Optimisation de l'exploration du paysage des poids dans les réseaux de neurones</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-LNE-DMSI-stage_DEEP.pdf">Optimisation de l'exploration du paysage des poids dans les réseaux de neurones</a>
       </div>
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/DMS-Stage_EDP.pdf">Apprentissage d'opérateurs pour la résolution d'EDP : application à la sécurité incendie</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-LNE-DMS-Stage_EDP.pdf">Apprentissage d'opérateurs pour la résolution d'EDP : application à la sécurité incendie</a>
       </div>
     </div>
   </li>
@@ -126,10 +126,10 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
   <li><strong>IFPEN</strong>
     <div class="job-list">
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-ENS-Optim_multiphysique_machines-electriques.pdf">Dimensionnement des machines électriques : Stratégies de réduction du temps d'optimisation</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-stage-IFPEN-ENS-Optim_multiphysique_machines-electriques.pdf">Dimensionnement des machines électriques : Stratégies de réduction du temps d'optimisation</a>
       </div>
       <div class="job-item">
-        <a href="https://uq-at-paris-saclay.github.io/files/jobs/stage-IFPEN-operateurs-neuronaux-stockage-CO2.pdf">Opérateurs neuronaux pour la méta-modélisation du stockage de CO2 en milieu poreux</a>
+        <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-stage-IFPEN-operateurs-neuronaux-stockage-CO2.pdf">Opérateurs neuronaux pour la méta-modélisation du stockage de CO2 en milieu poreux</a>
       </div>
     </div>
   </li>
@@ -141,7 +141,7 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
 - **CERFACS-ONERA-LISN**
   <div class="job-list">
     <div class="job-item">
-      <a href="https://uq-at-paris-saclay.github.io/files/jobs/Stage_CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf">Algorithmes d'estimation de probabilité de défaillance utilisant des méta-modèles multi-fidelité, dans un contexte d'hydrodynamique fluviale</a>
+      <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-Stage_CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf">Algorithmes d'estimation de probabilité de défaillance utilisant des méta-modèles multi-fidelité, dans un contexte d'hydrodynamique fluviale</a>
     </div>
   </div>
 
@@ -160,6 +160,6 @@ N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-l
       <a href="https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-ENS-Optim_multiphysique_machines-%C3%A9lectriques.pdf">Méthodes d'optimisation robuste multi-physique des machines électriques à base de modèles de substitution</a>
     </div>
     <div class="job-item">
-      <a href="https://uq-at-paris-saclay.github.io/files/jobs/these-IFPEN-LISN-regression-symbolique.pdf">Développement d'une méthode de régression symbolique pour la prédiction du flux de chaleur pariétal dans les simulations 3D du refroidissement liquide à haut nombre de Prandtl</a>
+      <a href="https://uq-at-paris-saclay.github.io/files/jobs/2024-these-IFPEN-LISN-regression-symbolique.pdf">Développement d'une méthode de régression symbolique pour la prédiction du flux de chaleur pariétal dans les simulations 3D du refroidissement liquide à haut nombre de Prandtl</a>
     </div>
   </div>
