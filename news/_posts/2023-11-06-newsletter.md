@@ -26,13 +26,8 @@ excerpt_separator: <!--more-->
 
 #### [UQSay](https://www.uqsay.org/seminars/) est de retour pour une nouvelle série de séminaires.
 
-Voici le programme pour la première période, d'octobre à Noël :
+Voici le programme pour la première période, de novembre à Noël :
 
-- UQSay #62 — October 5 — _Sibo Cheng_
-- ☞ *Machine learning and data assimilation for high dimensional dynamical systems*
-- UQSay #63 — October 19 — _Stefania Fresca_
-- ☞ *Deep learning-based reduced order models for the real-time approximation of parametrized PDEs*
-- UQSay #64 — November 2 — _Christoph Molnar & Timo Freiesleben_
 - ☞ *Supervised Machine Learning in Science*
 - UQSay #65 — November 16 — _Michael Jordan_
 - ☞ *Prediction-Powered Inference*
@@ -45,21 +40,47 @@ Voir [ici](https://www.uqsay.org/upcoming) pour plus d'informations !
 
 #### [Réseau MEXICO](https://reseau-mexico.fr/)
 
-Les prochaines journées du [réseau MEXICO](https://reseau-mexico.fr/) (Méthodes d'EXploration Informatique de Modèles COmplexes) auront lieu en présentiel les **4 et 5 décembre** prochains sur le **campus AgroParisTech à Palaiseau** (début lundi 4 midi, fin mardi 5 vers 16h).
+Les prochaines journées du [réseau
+MEXICO](https://reseau-mexico.fr/) (Méthodes d'EXploration
+Informatique de Modèles COmplexes) auront lieu en présentiel les **4
+et 5 décembre** prochains sur le **campus AgroParisTech à
+Palaiseau** (début lundi 4 midi, fin mardi 5 vers 16h).
 
-Vous pouvez vous inscrire sur le [site](https://mexico2023.sciencesconf.org/) avant le 17 novembre et soumettre une proposition de communication avant le 9 novembre. L'inscription est gratuite, mais obligatoire.
+Vous pouvez vous inscrire sur le
+[site](https://mexico2023.sciencesconf.org/) avant le 17 novembre et
+soumettre une proposition de communication avant le 9 novembre.
+L'inscription est gratuite, mais obligatoire.
 
-Le thème des exposés invités sera les analyses de sensibilité pour entrées dépendantes, mais nous accepterons des propositions de communication sur un large thème autour de l'analyse de sensibilité et de la méta-modélisation comme lors des éditions précédentes. Le réseau est intéressé tout autant par des exposés de développements méthodologiques que de mise en œuvre pratique des méthodes sur des applications et il vous est également possible de présenter des travaux en cours afin de partager vos questions de recherche.
+Le thème des exposés invités sera les analyses de sensibilité pour
+entrées dépendantes, mais nous accepterons des propositions de
+communication sur un large thème autour de l'analyse de sensibilité
+et de la méta-modélisation comme lors des éditions précédentes. Le
+réseau est intéressé tout autant par des exposés de développements
+méthodologiques que de mise en œuvre pratique des méthodes sur des
+applications et il vous est également possible de présenter des
+travaux en cours afin de partager vos questions de recherche.
 
 #### [Workshop organisé par MASCOT-NUM](https://indico.math.cnrs.fr/event/9994/)
 
-Au mêmes dates que les journées précédentes, ont lieu à Toulouse deux journées de workshop organisées par le Groupement de Recherche MASCOT-NUM, sur la thématique suivante : “**Physics-Informed Learning**”.  
+Au mêmes dates que les journées précédentes, ont lieu à Toulouse
+deux journées de workshop organisées par le Groupement de Recherche
+MASCOT-NUM, sur la thématique suivante : “**Physics-Informed
+Learning**”.  
 
-La structuration croissante de la communauté française autour de cette thématique, que l’on retrouve au coeur de plusieurs projets IA-Clusters, est à l’image du besoin majeur exprimé par les entreprises souhaitant valider l’usage de simulateurs rapides, reproduisant une physique souvent incarnée par des codes de calcul coûteux. 
+La structuration croissante de la communauté française autour de
+cette thématique, que l’on retrouve au coeur de plusieurs projets
+IA-Clusters, est à l’image du besoin majeur exprimé par les
+entreprises souhaitant valider l’usage de simulateurs rapides,
+reproduisant une physique souvent incarnée par des codes de calcul
+coûteux. 
 
 #### [AISSAI](https://www.cnrs.fr/en/artificial-intelligence-science-science-artificial-intelligence-aissai-center)
 
-AISSAI organise un workshop intitulé **“AI and the Uncertainty Challenge in Fundamental Physics”**. Ce workshop a pour objectif de réunir des experts en sciences fondamentales, informatique et statistiques pour échanger autour du thème des incertitudes, qui a été décliné selon les thèmes suivants :
+AISSAI organise un workshop intitulé **“AI and the Uncertainty
+Challenge in Fundamental Physics”**. Ce workshop a pour objectif de
+réunir des experts en sciences fondamentales, informatique et
+statistiques pour échanger autour du thème des incertitudes, qui a
+été décliné selon les thèmes suivants :
 
 - **Lundi après-midi**  : Session d'ouverture, Quantification et Prédiction des incertitudes.
 - **Mardi matin** : IA explicable, IA digne de confiance.
@@ -71,17 +92,34 @@ AISSAI organise un workshop intitulé **“AI and the Uncertainty Challenge in F
 - **Vendredi matin** : Architectures (Adversarial, Bayesian, ... ).
 - **Vendredi après-midi** : Session de clôture.
 
-L'inscription est gratuite (mais obligatoire), elle sera limitée à 120 participants sur place. Elle sera clôturée le **15 novembre à minuit**. Une participation à distance, à temps plein ou à temps partiel, est possible, mais l'accent sera mis sur la participation sur place. Le formulaire d'inscription permet de spécifier la participation sur place avec une certaine granularité. Le lien de zoom sera distribué uniquement aux participants. Les contributions sont les bienvenues ; les soumissions seront closes le 10 novembre à minuit (une notification d'acceptation pourra être envoyée plus tôt pour les exposés particulièrement pertinents). Les exposés doivent être présentés en personne, à quelques exceptions près.
+L'inscription est gratuite (mais obligatoire), elle sera limitée à
+120 participants sur place. Elle sera clôturée le **15 novembre à
+minuit**. Une participation à distance, à temps plein ou à temps
+partiel, est possible, mais l'accent sera mis sur la participation
+sur place. Le formulaire d'inscription permet de spécifier la
+participation sur place avec une certaine granularité. Le lien de
+zoom sera distribué uniquement aux participants. Les contributions
+sont les bienvenues ; les soumissions seront closes le 10 novembre à
+minuit (une notification d'acceptation pourra être envoyée plus tôt
+pour les exposés particulièrement pertinents). Les exposés doivent
+être présentés en personne, à quelques exceptions près.
 
-L'atelier aura lieu du lundi 14h00 au mardi soir à Paris à SCAI, Paris (sur le campus de Jussieu) et mercredi, jeudi, vendredi 17h00 à l'Institut Pascal Université Paris-Saclay.
+L'atelier aura lieu du lundi 14h00 au mardi soir à Paris à SCAI,
+Paris (sur le campus de Jussieu) et mercredi, jeudi, vendredi 17h00
+à l'Institut Pascal Université Paris-Saclay.
 
 Plus d’informations [ici](https://indico.in2p3.fr/event/30589/overview).
 
 ### Offres de stage et d'emploi
 
-Les offres de stage et d'emploi (dont thèses, post-docs) peuvent être soumises à la diffusion via l'adresse : _comite-scientifique.uq@paris-saclay.fr_
+Les offres de stage et d'emploi (dont thèses, post-docs) peuvent
+être soumises à la diffusion via l'adresse :
+_comite-scientifique.uq@paris-saclay.fr_
 
-N'oubliez pas de préciser la durée de disponibilité de l'offre (ou une date-limite), et réécrivez-nous si vous souhaitez la maintenir visible au-delà ou au contraire l'ôter de la liste de façon anticipée.
+N'oubliez pas de préciser la durée de disponibilité de l'offre (ou
+une date-limite), et réécrivez-nous si vous souhaitez la maintenir
+visible au-delà ou au contraire l'ôter de la liste de façon
+anticipée.
 
 #### Offres de stage dont le financement est assuré
 
