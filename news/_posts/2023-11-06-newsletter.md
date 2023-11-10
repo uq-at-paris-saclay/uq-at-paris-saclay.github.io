@@ -28,7 +28,6 @@ excerpt_separator: <!--more-->
 
 Voici le programme pour la première période, de novembre à Noël :
 
-- ☞ *Supervised Machine Learning in Science*
 - UQSay #65 — November 16 — _Michael Jordan_
 - ☞ *Prediction-Powered Inference*
 - UQSay #66 — November 30 — _Elaine Spiller_
