@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Offre de stage EDF DeepLearning 2024
+title: Offre de stage EDF Deep Learning 2024
 excerpt_separator: <!--more-->
 ---
 EDF R&D, et plus particulièrement le département ERMES, propose le stage suivant :
