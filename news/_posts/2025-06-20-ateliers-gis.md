@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ateliers de construction de projets GIS UQ@Paris-Saclay – 8 et 9 juillet 2025
+title: Ateliers de construction de projets du GIS – 8 et 9 juillet 2025
 permalink: ateliersGIS2025
 excerpt_separator: <!--more-->
 ---
