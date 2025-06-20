@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ateliers de construction de projets du GIS – 8 et 9 juillet 2025
-permalink: ateliersGIS2025
+title: Ateliers construction de projets – 8 et 9 juillet 2025
+permalink: /news/ateliersGIS2025
 excerpt_separator: <!--more-->
 ---
 
@@ -14,7 +14,7 @@ Le programme comprendra :
 - une expression des besoins des participants (académiques ou industriels),
 - des groupes de travail dédiés à la définition de projets collaboratifs.
 
-[Télécharger la version préliminaire du programme](files/2025/Programme_preliminaire_des_Ateliers_GIS_2025.pdf)
+[Télécharger la version préliminaire du programme](/files/2025/Programme_preliminaire_des_Ateliers_GIS_2025.pdf)
 
 Les premiers thèmes identifiés sont :
 - UQ et réseaux de neurones,

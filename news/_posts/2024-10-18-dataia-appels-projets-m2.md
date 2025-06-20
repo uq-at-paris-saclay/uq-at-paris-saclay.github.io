@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DATAIA - Appels à projets Stages M2 2025
-permalink: stagesDataIA2025
+permalink: /news/stagesDataIA2025
 excerpt_separator: <!--more-->
 ---
 L'appel à projets de DataIA pour des stages de Master 2 pour l'année 2025 est ouvert jusqu'au **12 novembre 2024**.
