@@ -1,6 +1,6 @@
 #!/bin/sh
 jekyll build 
-rsync -av --delete _site/ ../_deploy/
+rsync -av --delete --exclude=".git" --exclude=".gitignore" _site/ ../_deploy/
 cd ../_deploy
 git add .
 git commit -m "Update site on $(date +%F)"
